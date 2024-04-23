@@ -192,7 +192,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        '𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈\x20an',
+        '𝐁𝐄𝐄𝐓𝐋𝐄-𝐁𝐎𝐓\x20an',
         '376590puyzhN',
         'key'
     ];
@@ -384,9 +384,9 @@ case "help":
 		      await loading ()
 
 let cap = `┏━━━━━━━━━━━━━━━━━━┓
-┃     ▇ ◆  𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕1  ◆ █
+┃     ▇ ◆ 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 ◆ █
 ┃☙┏━━━━━━━━━━━━━━━┛
-┃☙┃ 𝗢𝘄𝗻𝗲𝗿 : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+┃☙┃ 𝗢𝘄𝗻𝗲𝗿 : 𝑲𝒊𝒏𝒈 𝑮
 ┃☙┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
 ┃☙┃ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 :${runtime(process.uptime())}
 ┃☙┃ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝐋𝐢𝐧𝐮𝐱
@@ -398,7 +398,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 ┃☙┃ ▎▍▌▌▉▏▎▌▉▐▏▌
 ┃☙┃┃▎▍▌▌▉▏▎▌▉▐▏▌
 ┃☙┃ 
-┃☙┃ ♝ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐀𝐈 ♗
+┃☙┃ ♝ 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 ♗
 ┃☙┗━━━━━━━━━━━━━━᪥
 ┗━━━━━━━━━━━━━━━━━᪥
 
@@ -524,7 +524,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./Classic.mp4'),
+                        video: fs.readFileSync('./Beetle.mp4'),
                         caption: cap,
 			sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",   
                         gifPlayback: true
@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8b12332b03df8082ab7a5.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐀𝐢 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ ⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ ⸼` });
 
    break;
                                                   
@@ -1282,7 +1282,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
                  if (!m.isGroup) throw group; 
                  if (!isBotAdmin) throw botAdmin; 
                  if (!isAdmin) throw admin; 
- let teks = `✧𝐂𝐋𝐀𝐒𝐒𝐂-𝐀𝐈✧\n☫𝐆𝐑𝐎𝐔𝐏 𝐓𝐀𝐆☫: 
+ let teks = `✧𝐁𝐄𝐄𝐓𝐋𝐄_𝐁𝐎𝐓✧\n☫𝐆𝐑𝐎𝐔𝐏 𝐓𝐀𝐆☫: 
    
   Message ${q ? q : ''}*\n\n`; 
                  for (let mem of participants) { 
@@ -1343,12 +1343,12 @@ break;
 
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1c75ece8f02d98e044e2e.jpg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈*\n\n*𝐒𝐏𝐄𝐄𝐃: ${dreadedspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐒𝐚𝐦𝐮𝐞𝐥*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1c75ece8f02d98e044e2e.jpg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐁𝐄𝐄𝐓𝐋𝐄-𝐁𝐎𝐓*\n\n*𝐒𝐏𝐄𝐄𝐃: ${dreadedspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝑲𝒊𝒏𝒈_𝑮*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑:𝚳𝚯𝐆𝚰𝚪𝚵_𝐊𝚰𝚳`}); 
  break;
 	      
   case "credits": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/72615a4dd05a7f00b8228.jpg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Fortunatus Mokaya ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/Fortunatusmokaya\n\n𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢 𝐁𝐎𝐓 シ︎`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/72615a4dd05a7f00b8228.jpg' }, caption: `We express sincere gratitue and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Fortunatus Mokaya ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/Fortunatusmokaya\n\n𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢 𝐁𝐎𝐓 シ︎`}); 
  break;
 		      
   case "take": {
@@ -1378,7 +1378,7 @@ try {
   }
 
 } catch (errr) { 
- await reply("𝐒𝐨𝐫𝐫𝐲\n𝐂𝐚𝐧𝐭 𝐟𝐢𝐧𝐝 ☄")}
+ await reply("𝐒𝐨𝐫𝐫𝐲\n𝐂𝐚𝐧𝐭 𝐟𝐢𝐧𝐝 😂💔")}
 
   }
 break;
@@ -1526,8 +1526,9 @@ break
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-                    }, {
-                        quoted: m
+		        caption:"𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 𝐁𝐄𝐄𝐓𝐋𝐄"
+		    },{	
+                        quoted:fcontact
                     }
                 );
             } else {
@@ -1610,7 +1611,8 @@ case 'yta': {
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-                    }, {
+		        caption:"𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 𝐁𝐄𝐄𝐓𝐋𝐄"
+		    }, {
                         quoted: m
                     }
                 );
