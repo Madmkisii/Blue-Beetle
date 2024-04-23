@@ -13,9 +13,9 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MOGIRE_KIM-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254790593618yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/244790593618yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/+254790593618yoh+𝐃𝐚𝐦𝐨𝐧 +nishow+venye+nitadeploy+blue-beetle'"><img title="Whatsapp" src="'https://wa.me/244790593618yoh+𝐃𝐚𝐦𝐨𝐧 +nishow+venye+nitadeploy+beetle'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254790593618yohyoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://wa.me/254790593618yohyoh+𝐃𝐚𝐦𝐨𝐧"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle/network/members"><img title="Forks" src="https://img.shields.io/github/for/Madmkisii/Blue-Blue?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Madmkisii/Blue-Beetle?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Madmkisii/Blue-Beetle/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
