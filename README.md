@@ -1,6 +1,6 @@
 # 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+MOGIRE+DAMON" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐁𝐄𝐄𝐓𝐋𝐄- 𝐁𝐎𝐓;WHATSAPP+BOT;CREATED+BY+MOGIRE+DAMON" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
