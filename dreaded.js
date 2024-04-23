@@ -239,7 +239,7 @@ var lod = [
 "☫",
 	"☸",
         "☬𝐏𝐨𝐧𝐠",	
-"𝐭𝐡𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐊𝐢𝐦 ☫"
+"𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐁𝐞𝐞𝐭𝐥𝐞 ☫"
 ]
 let { key } = await client.sendMessage(from, {text: '✧𝐏𝐨𝐧𝐠'})
 
@@ -1528,7 +1528,7 @@ break
                         fileName: titleYt + ".mp3",
 		        caption:"𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 𝐁𝐄𝐄𝐓𝐋𝐄"
 		    },{	
-                        quoted:fcontact
+                        quoted: m
                     }
                 );
             } else {
