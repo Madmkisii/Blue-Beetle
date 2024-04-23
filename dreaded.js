@@ -102,7 +102,7 @@ const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
 const admin = process.env.ADMIN_MSG || '𝐇𝐮𝐡!\n𝐀𝐝𝐦𝐢𝐦𝐬 𝐨𝐧𝐥𝐲, 𝐃𝐮𝐦𝐦𝐲.';
     const group = process.env.GROUP_ONLY_MSG || '𝐆𝐫𝐨𝐮𝐩 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐍𝐢𝐠𝐠𝐚.';
     const botAdmin = process.env.BOT_ADMIN_MSG || '𝐈𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐌𝐅'
-    const NotOwner = process.env.NOT_OWNER_MSG || '𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐨𝐧𝐥𝐲 ☬';
+    const NotOwner = process.env.NOT_OWNER_MSG || '𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞 𝐨𝐧𝐥𝐲 ☬';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
 const antilinkall = process.env.ANTILINK_ALL || 'TRUE';
@@ -255,9 +255,9 @@ var lod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜! ☫"
+"	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲  𝐁𝐞𝐞𝐭𝐥𝐞! ☫"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜! ☬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞! ☬...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -542,9 +542,9 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈`,
+                                title: `𝐁𝐄𝐄𝐓𝐋𝐄-𝐁𝐎𝐓`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
+                                thumbnail: fs.readFileSync('./𝐁𝐥𝐮𝐞_𝐁𝐞𝐞𝐭𝐥𝐞.jpg'),
                                 sourceUrl: 'https://wa.me/254790593618?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -705,7 +705,7 @@ break;
 case 'ss': case 'ssweb': {
 if (!q) return reply(`Example ${prefix+command} link`)
 let krt = await scp1.ssweb(q)
-client.sendMessage(from,{image:krt.result,caption:"Done by 𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪ˊ "}, {quoted:m})
+client.sendMessage(from,{image:krt.result,caption:"Done by 𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞ˊ "}, {quoted:m})
 }
 break;	
 		      
@@ -1106,7 +1106,7 @@ try {
  if (users  == client.decodeJid(client.user.id)) throw 'Bot cannot remove itself 😡';
  if (users == Owner) { m.reply('Its owner number')}; 
                  await client.groupParticipantsUpdate(m.chat, users, 'remove'); 
-await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜☬'); 
+await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞☬'); 
 } catch (errr) { 
  await reply("𝐇𝐮𝐡!\n 𝐈 𝐚𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞\n 𝐖𝐡𝐲'𝐫𝐞 𝐲𝐨𝐮 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐨𝐛𝐭𝐮𝐬𝐞𝐥𝐲?☬")}
 
@@ -1331,7 +1331,7 @@ function _0x14eb(){const _0x17ec6c=['Audio\x20downloading\x20->','mediaType','st
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞`; 
  client.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -1729,7 +1729,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞`,
                     }, {
                         quoted: m
                     }
@@ -1771,7 +1771,7 @@ const audiovn = "./alive.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐁𝐥𝐮𝐞 𝐁𝐞𝐞𝐭𝐥𝐞 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
           thumbnailUrl: "https://telegra.ph/file/02340ba6afc923969fd97.jpg",
           sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
@@ -1872,7 +1872,7 @@ case "movie":
              } 
  break;
  
-      case "sam": case "owner": case "sam": 
+      case "kim": case "owner": case "kim": 
  client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/0b037a829d2fd44385d93.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254742491666 ☤☬` }, {quoted: m}); 
   
  break;
@@ -1908,7 +1908,7 @@ case "movie":
          let res = groups.map(v => v.id) 
          reply(` Broadcasting in ${res.length} Group Chat, in ${res.length * 1.5} seconds`) 
          for (let i of res) { 
-             let txt = `*_</ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
+             let txt = `*_</ 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 𝐁𝐎𝐓𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}_*` 
              await client.sendMessage(i, { 
                  image: { 
                      url: "https://telegra.ph/file/02340ba6afc923969fd97.jpg" 
