@@ -239,7 +239,7 @@ var lod = [
 "☫",
 	"☸",
         "☬𝐏𝐨𝐧𝐠",	
-"𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐞𝐝 ☫"
+"𝐭𝐡𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐊𝐢𝐦 ☫"
 ]
 let { key } = await client.sendMessage(from, {text: '✧𝐏𝐨𝐧𝐠'})
 
@@ -518,7 +518,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 ┃☙┃${prefix}𝐑𝐞𝐯𝐨𝐤𝐞.
 ┃☙┃
 ┃☙┗━━━━━━━━━━━━━━᪥
-┃    ↈ 𝐁𝐘 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ↈ
+┃    ↈ 𝐁𝐘 𝐃𝐀𝐌𝐎𝐍
 ┗━━━━━━━━━━━━━━━━━᪥`;
 
 if (menu === 'VIDEO') {
@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/ba046985971b4b6b8b1d4.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 without scanning any qr code\n\n [https://replit.com/@pesguru02/Pairing-Classic-Ai]\n\nMade on Earth by 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ ⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Madmkisii/Blue-Beetle\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 without scanning any qr code\n\n [https://replit.com/@Madmkisii/Pairing-blue-beetle-1]\n\nMade on Earth by 𝐃𝐀𝐌𝐎𝐍` });
 
    break;
                                                   
@@ -1822,7 +1822,7 @@ break;
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `*𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 ☬*`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `*𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐝 𝐛𝐲 𝐁𝐞𝐞𝐭𝐥𝐞 ☬*`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
