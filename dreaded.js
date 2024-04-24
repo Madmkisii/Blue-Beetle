@@ -241,7 +241,7 @@ var lod = [
         "☬𝐏𝐨𝐧𝐠",	
 "𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐁𝐞𝐞𝐭𝐥𝐞 ☫"
 ]
-let { key } = await client.sendMessage(from, {text: '✧𝐏𝐨𝐧𝐠'})
+let { key } = await client.sendMessage(from, {text: '✰𝐏𝐨𝐧𝐠'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
