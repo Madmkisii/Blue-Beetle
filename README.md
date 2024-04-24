@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝐃𝐀𝐌𝐎𝐍***
+***Made on Earth by 𝑲𝒊𝒏𝒈 𝑮***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
