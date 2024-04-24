@@ -1747,7 +1747,7 @@ break;
 case "ping": case "speed": { 
 
 	await loadings ()
-         m.reply (`\✧𝐏𝐨𝐧𝐠\n *${dreadedspeed.toFixed(4)}* *ms*`); 
+         m.reply (`\✰𝐏𝐨𝐧𝐠\n *${dreadedspeed.toFixed(4)}* *𝐌𝐬*`); 
          } 
  break; 
   
@@ -1873,7 +1873,7 @@ case "movie":
  break;
  
       case "kim": case "owner": case "kim": 
- client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/a3cb51bf3eeacea893024.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254742491666 ☤☬` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/a3cb51bf3eeacea893024.mp4' }, caption: `𝐇𝐞𝐫𝐞 𝐢𝐬 𝐦𝐲 𝐚𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐜𝐫𝐞𝐚𝐭𝐨𝐫, +254790593618 ☤☬` }, {quoted: m}); 
   
  break;
        
