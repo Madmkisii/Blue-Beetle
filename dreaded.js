@@ -1772,9 +1772,9 @@ const audiovn = "./alive.mp3";
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝐇𝐢 𝐡𝐮𝐦𝐚𝐧,𝐚𝐦 𝐁𝐞𝐞𝐭𝐥𝐞 𝐚 𝐁𝐨𝐭 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐊𝐢𝐦",
-          body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
+          body: "https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo",
           thumbnailUrl: "https://telegra.ph/file/02340ba6afc923969fd97.jpg",
-          sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
+          sourceUrl: "https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
