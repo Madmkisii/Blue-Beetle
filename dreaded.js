@@ -544,7 +544,7 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `𝐁𝐄𝐄𝐓𝐋𝐄-𝐁𝐎𝐓`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./𝐁𝐥𝐮𝐞_𝐁𝐞𝐞𝐭𝐥𝐞.jpg'),
+                                thumbnail: fs.readFileSync('./bluebeetle.jpg'),
                                 sourceUrl: 'https://wa.me/254790593618?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
