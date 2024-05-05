@@ -1758,7 +1758,7 @@ case "ping": case "speed": {
 
 case "alive":
 
-const audiovn = "./alive.mp3";
+const audiovn = "./beetle.mp3";
     const dooc = {
         audio: {
           url: audiovn
