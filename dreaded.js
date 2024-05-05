@@ -1773,7 +1773,7 @@ const audiovn = "./beetle.mp3";
           externalAdReply: {
           title: "𝐇𝐢 𝐡𝐮𝐦𝐚𝐧,𝐚𝐦 𝐁𝐞𝐞𝐭𝐥𝐞 𝐚 𝐁𝐨𝐭 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐊𝐢𝐦",
           body: "https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo",
-          thumbnailUrl: "https://telegra.ph/file/02340ba6afc923969fd97.jpg",
+          thumbnailUrl: "https://telegra.ph/file/6dc6318160bc5c9d288e5.jpg",
           sourceUrl: "https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo",
           mediaType: 1,
           renderLargerThumbnail: true
