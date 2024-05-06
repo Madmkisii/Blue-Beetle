@@ -731,10 +731,10 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, drex ai has successfully connected to this server", "green"));
+      console.log(color("Congrats, beetle bot has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as @kim_damon", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁 https://chat.whatsapp.com/HSChig1YPPQIDEtpvzMBuo` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `𝐁𝐄𝐄𝐓𝐋𝐄 𝐁𝐎𝐓 𝐡𝐚𝐬 𝐬𝐭𝐚𝐫𝐭𝐞𝐝. . .\n\n𝐁𝐎𝐓 𝐑𝐔𝐍𝐍𝐈𝐍𝐆\n\nHave fun with the bot😁` });
     }
     // console.log('Connected...', update)
   });
